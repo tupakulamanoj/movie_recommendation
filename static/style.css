@@ -1,0 +1,43 @@
+body{
+    background-image: url("https://miro.medium.com/v2/resize:fit:6120/0*Jb306SqcT0f-5ZFe") ;
+    background-size: cover; 
+    font-family: 'Arial', sans-serif;
+
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .input-group {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  .input-group-text {
+    background-color: #737a81;
+    color: #9c8c8c;
+    border: 1px solid #007bff;
+  }
+  
+  .form-control {
+    border-radius: 5px;
+    width: 100px;
+  }
+.btn{
+    margin-left: 110px;
+    margin-top: 25px;
+}
+.title{
+    margin-top: -230px;
+    color: rgb(31, 186, 140);
+}
+form{
+    margin-left: -530px;
+    
+}
